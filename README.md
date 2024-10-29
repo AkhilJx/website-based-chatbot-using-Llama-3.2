@@ -12,5 +12,6 @@ A Screenshot of the output is as shown:
 Output:
 ![image](https://github.com/user-attachments/assets/694781f8-96ab-42e6-962c-a4303bcb2321)
 
-![Screenshot from 2024-10-29 10-06-01](https://github.com/user-attachments/assets/892833be-784e-4ec7-bc9d-01cf609f526d)
+![image](https://github.com/user-attachments/assets/ebb7ee8b-4634-4d11-aa17-091bfbcb704c)
+
 
